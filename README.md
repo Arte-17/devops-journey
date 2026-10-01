@@ -1,9 +1,9 @@
 # DevOps Journey
-
+OC
 My name is Abdulrahman Arte. I have a background in IT, and this is the start of my journey into becoming a DevOps engineer, starting with Linux.
 
 ## Current Status
-→ Linux (in progress – currently on OverTheWire Bandit, level 1)
+→ finished Bandit levels 0–8, starting SadServers
 
 ## Modules
 - → Linux
