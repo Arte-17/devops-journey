@@ -47,3 +47,5 @@ Logs live in `/var/log`, newest at the bottom. `tail -f` watches one live. I tes
 4. Does it respond? → `curl`
 5. Is the disk full? → `df -h`
 6. Fix it, then check the fix actually worked
+
+**Update:** came back and solved SadServers 'Saskatoon' (counting IPs) myself.
