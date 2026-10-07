@@ -1,13 +1,13 @@
 # DevOps Journey
-OC
+
 My name is Abdulrahman Arte. I have a background in IT, and this is the start of my journey into becoming a DevOps engineer, starting with Linux.
 
 ## Current Status
-→ finished Bandit levels 0–8, starting SadServers
+ → Linux (troubleshooting scenarios: 4 done) → starting Bash scripting
 
 ## Modules
 - → Linux
-- Bash Scripting
+- → Bash Scripting
 - Git & GitHub
 - Docker
 - Kubernetes
@@ -18,4 +18,4 @@ My name is Abdulrahman Arte. I have a background in IT, and this is the start of
 - **I can actually work in a terminal now.** Moving around the file system, creating and managing users and groups, editing in vim (and getting out of it), pushing my work to GitHub, and SSHing into a remote server for OverTheWire Bandit.
 
 ## Next Steps
-Work through the Bandit levels, then move on to Bash scripting.
+Finish the last Linux troubleshooting scenarios (site unreachable), and work through the Bash scripting module.
