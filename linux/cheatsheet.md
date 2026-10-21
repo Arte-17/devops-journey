@@ -1,6 +1,6 @@
 # Linux Cheat Sheet
 
-Quick reference, following the CoderCo Linux section. One line per command. Detail lives in [gotchas.md](./gotchas.md).
+Quick reference. One line per command. Detail lives in [slip-ups.md](./slip-ups.md).
 
 ---
 

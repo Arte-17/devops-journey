@@ -1,4 +1,4 @@
-# Gotchas & Lessons Learned
+# Slip-ups & Lessons Learned
 
 Things that went wrong, why, and how I fixed them.
 

@@ -1,6 +1,6 @@
 # DevOps Journey
 
-My name is Abdulrahman Arte. I have a background in IT, and this repo documents my journey into becoming a DevOps engineer, following the CoderCo DevOps course. Everything here is written by me as I learn it: notes, scripts, and the mistakes I made along the way.
+My name is Abdulrahman Arte. I have a background in IT, and this repo documents my journey into becoming a DevOps engineer. Everything here is written by me as I learn it: notes, scripts, and the mistakes I made along the way.
 
 ## Current Status
 Linux ✅ (all 5 troubleshooting scenarios done) → **Bash scripting (nearly finished)** → Git next
@@ -20,7 +20,7 @@ Linux ✅ (all 5 troubleshooting scenarios done) → **Bash scripting (nearly fi
 ## What's in here
 | Folder | What it is |
 |---|---|
-| `linux/` | My Linux cheatsheet, a quick reference, the gotchas I kept hitting, what Bandit taught me, and 5 troubleshooting scenarios with how I'd talk through each one in an interview |
+| `linux/` | My Linux cheatsheet, a quick reference, the slip-ups I kept making, what Bandit taught me, and 5 troubleshooting scenarios with how I'd talk through each one in an interview |
 | `bash/` | Every script I've written while learning Bash, from `hello.sh` to scripts that loop, check input and report errors |
 
 ## Scripts I'm most proud of
