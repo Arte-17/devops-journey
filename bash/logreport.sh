@@ -6,3 +6,4 @@ if [ ! -f $logfile ]; then
 exit 1 
 fi
 echo "Report for: $1"
+echo "Run by:$USER on $(date)"  
