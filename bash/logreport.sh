@@ -6,4 +6,10 @@ if [ ! -f $logfile ]; then
 exit 1 
 fi
 echo "Report for: $1"
-echo "Run by:$USER on $(date)"  
+echo "Run by: $USER on $(date)" 
+echo "Lines: $( wc -l < $1 )"
+top_ip() {
+	cut -d ' ' -f1 $1 | sort | uniq -c | sort -nr | head -n 3
+}
+echo "Top IPs:"
+top_ip $logfile
