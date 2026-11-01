@@ -1,4 +1,6 @@
 #!/bin/bash
+# Asks for 2 numbers then adds, subtracts, multiplies and divides them. It won't divide by 0, so it checks the input before using it.
+
 # ask for two numbers
 echo "Enter first number:"
 read num1
